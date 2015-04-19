@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidNDKTest</string>
+
+    <string name="action_use_ndk">使用NDK</string>
+    
+</resources>
